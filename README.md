@@ -1,1 +1,1 @@
-# meten-is-weten
+# School assignment 
